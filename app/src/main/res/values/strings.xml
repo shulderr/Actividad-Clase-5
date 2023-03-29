@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="LadoUno">LADO UNO</string>
+    <string name="LadoDos">LADO DOS</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="Resultado">Resultado:</string>
+    <string name="l1">Lado Uno:</string>
+    <string name="l2">Lado Dos:</string>
+    <string name="ResP2">Resultado:</string>
+    <string name="opengoogle">Abrir Google</string>
+    <string name="call">LLAMAR</string>
+
+</resources>
